@@ -58,5 +58,5 @@ I am a front-end developer from Kyrgyz
 
 <!-- Красивая анимация для фронтенд-разработчика -->
 <p align="center">
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/assets/icons/loading.gif" alt="Loading GIF" width="100" />
+  <img src="https://media.giphy.com/media/9J7fJ9Wprl1gU/giphy.gif" alt="Beautiful Animation" width="300" />
 </p>
