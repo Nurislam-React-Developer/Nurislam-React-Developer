@@ -1,11 +1,11 @@
 # nurs_996
 ![Рабочее место](https://github.com/username/repo/blob/main/workspace-image.png) <!-- Замени на свой URL к изображению -->
 
-# I am Mustafa Sultanov
+# I am Nurislam Abdimalikov
 
 [Assalamu Alaikum ✋](https://example.com) <!-- Ссылка, ведущая на другой сайт -->
 
-I am a front-end developer from Kyrgy
+I am a front-end developer from Kyrgyz
 
 ## Connect with me:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/номер_телефона)
