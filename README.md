@@ -51,7 +51,3 @@ I am a front-end developer from Kyrgyz
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<!-- Змея GitHub Contributions -->
-<p align="center">
-  <img src="https://github.com/username/github-snake/blob/main/github-contribution-grid-snake.gif" alt="GitHub Snake" />
-</p>
