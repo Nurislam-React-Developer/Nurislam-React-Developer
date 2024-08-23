@@ -37,12 +37,7 @@ I am a front-end developer from Kyrgyz
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 
-<!-- Добавляем анимированный текст -->
-<p align="center">
-  <a href="https://github.com/username" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF5733&center=true&width=435&lines=Front-end+developer;Welcome+to+my+GitHub!;Check+out+my+projects+below">
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/username" target="_blank">
