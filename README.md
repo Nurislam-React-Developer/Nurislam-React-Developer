@@ -56,7 +56,7 @@ I am a front-end developer from Kyrgyz
   <img src="https://github.com/username/github-snake/blob/main/github-contribution-grid-snake.gif" alt="GitHub Snake" />
 </p>
 
-<!-- Эффектная анимация -->
+<!-- Гиф разработчика -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Amazing Animation" width="400" />
+  <img src="https://media.giphy.com/media/3o6Zt1eM02kABF0DAE/giphy.gif" alt="Developer Animation" width="600" />
 </p>
