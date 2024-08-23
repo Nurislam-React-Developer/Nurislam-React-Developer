@@ -39,3 +39,19 @@ I am a front-end developer from Kyrgyz
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/username" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Front-end+developer;Welcome+to+my+GitHub!;Check+out+my+projects+below;Happy+coding!">
+  </a>
+</p>
+
+<!-- Статистика GitHub -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<!-- Змея GitHub Contributions -->
+<p align="center">
+  <img src="https://github.com/username/github-snake/blob/main/github-contribution-grid-snake.gif" alt="GitHub Snake" />
+</p>
