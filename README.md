@@ -40,3 +40,9 @@ I am a front-end developer from Kyrgyz
 </p>
 
 ![Программирование](https://github.com/username/repo/blob/main/programming-image.png)
+
+## GitHub Stats
+
+![Nurislam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default)
