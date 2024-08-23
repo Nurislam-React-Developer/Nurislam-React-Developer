@@ -1,6 +1,11 @@
 <!-- Добавляем анимированную змейку -->
 ![snake gif](https://github.com/username/github-snake/blob/main/github-contribution-grid-snake.gif)
 
+<!-- Гиф с разработчиком в верхней части -->
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/66754038/287403832-b3b056b1-d79a-4b9d-9e25-657b84f703f8.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ0MjA3MjEsIm5iZiI6MTcyNDQyMDQyMSwicGF0aCI6Ii82Njc1NDAzOC8yODc0MDM4MzItYjNiMDU2YjEtZDc5YS00YjlkLTllMjUtNjU3Yjg0ZjcwM2Y4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIzVDEzNDAyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMzNjRiOThkOTA2NjAwZDZlZGMyOWYxZDBjOGQ3Yzk5ZTU4ZmM1ZjE5MmNkZDUxZDYzNDAyZjRiZDc3ZWI2ZWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.KhmrHQeMyrYQYnZIzUfibwO7Wh0Uzs399nQkLXtO34U" alt="Developer Animation" width="1000" />
+</p>
+
 # I am Nurislam Abdimalikov
 
 [Assalamu Alaikum ✋](https://example.com)
@@ -54,9 +59,4 @@ I am a front-end developer from Kyrgyz
 <!-- Змея GitHub Contributions -->
 <p align="center">
   <img src="https://github.com/username/github-snake/blob/main/github-contribution-grid-snake.gif" alt="GitHub Snake" />
-</p>
-
-<!-- Гиф с разработчиком -->
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/66754038/287403832-b3b056b1-d79a-4b9d-9e25-657b84f703f8.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ0MjA3MjEsIm5iZiI6MTcyNDQyMDQyMSwicGF0aCI6Ii82Njc1NDAzOC8yODc0MDM4MzItYjNiMDU2YjEtZDc5YS00YjlkLTllMjUtNjU3Yjg0ZjcwM2Y4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIzVDEzNDAyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMzNjRiOThkOTA2NjAwZDZlZGMyOWYxZDBjOGQ3Yzk5ZTU4ZmM1ZjE5MmNkZDUxZDYzNDAyZjRiZDc3ZWI2ZWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.KhmrHQeMyrYQYnZIzUfibwO7Wh0Uzs399nQkLXtO34U" alt="Developer Animation" width="600" />
 </p>
