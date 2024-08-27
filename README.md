@@ -10,11 +10,11 @@
 
 [Assalamu Alaikum ✋](https://example.com)
 
-I am a front-end developer from Kyrgyz
+I am a front-end developer from Kyrgyzstan
 
 ## Connect with me:
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0706547119)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Nurs_06A)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/996706547119)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nurs_06A)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nurs_996_)
 
 ## Languages and Tools:
@@ -37,14 +37,11 @@ I am a front-end developer from Kyrgyz
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 
-
-
 <p align="center">
   <a href="https://github.com/username" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Front-end+developer;Welcome+to+my+GitHub!;Check+out+my+projects+below;Happy+coding!">
   </a>
 </p>
-
 
 <picture>
   <source
@@ -64,5 +61,3 @@ I am a front-end developer from Kyrgyz
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-
