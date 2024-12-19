@@ -65,8 +65,5 @@ I am a front-end developer from Kyrgyzstan.
 </picture>
 
 <!-- Добавляем график активности -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=username&theme=vue"/>
-</p>
 
 
