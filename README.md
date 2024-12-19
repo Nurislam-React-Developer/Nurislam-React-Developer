@@ -8,9 +8,10 @@
 
 # I am Nurislam Abdimalikov
 
-[Assalamu Alaikum ✋](https://example.com)
+Nurislam
+Junior Frontend Developer
 
-I am a front-end developer from Kyrgyzstan.
+Motivated and detail-oriented Junior Frontend Developer with expertise in JavaScript and React. Proficient in building responsive and dynamic web applications using modern tools like Redux Toolkit, Material UI, and Styled-components. Experienced in working with REST APIs and creating clean, maintainable code. Open to remote opportunities with flexible work hours.
 
 ## Connect with me:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/996706547119)
