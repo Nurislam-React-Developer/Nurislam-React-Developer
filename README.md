@@ -27,7 +27,6 @@ I am a front-end developer from Kyrgyzstan.
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=fff&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff&style=for-the-badge)
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=fff&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=fff&style=for-the-badge)
