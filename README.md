@@ -18,6 +18,20 @@ Motivated and detail-oriented Junior Frontend Developer with expertise in JavaSc
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nurs_06A)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nurs_996__)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш-ник&show_icons=true&theme=radical&count_private=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш-ник&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=ваш-ник&theme=radical&hide_border=true)
+
+![WakaTime](https://wakatime.com/badge/user/ваш-wakatime-id.svg)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ваш-ник&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваш-ник&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=ваш-ник&theme=radical&hide_border=true" />
+</p>
+
 ## Languages and Tools:
 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
