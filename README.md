@@ -18,19 +18,21 @@ Motivated and detail-oriented Junior Frontend Developer with expertise in JavaSc
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nurs_06A)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nurs_996__)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш-ник&show_icons=true&theme=radical&count_private=true&hide_border=true)
+## 📊 My Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш-ник&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=ваш-ник&theme=radical&hide_border=true)
-
-![WakaTime](https://wakatime.com/badge/user/ваш-wakatime-id.svg)
+<div style="display: flex; justify-content: center; align-items: center;">
+<a href="https://github.com/Elkhan2003"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Elkhan2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
+</a>
+<a href="https://github.com/Elkhan2003"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elkhan2003&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+</a>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ваш-ник&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваш-ник&layout=compact&theme=radical&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=ваш-ник&theme=radical&hide_border=true" />
+    <a href="https://github.com/Elkhan2003">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Elkhan2003&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+    </a>
 </p>
+
 
 ## Languages and Tools:
 
