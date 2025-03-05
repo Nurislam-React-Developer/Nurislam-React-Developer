@@ -21,15 +21,14 @@ Motivated and detail-oriented Junior Frontend Developer with expertise in JavaSc
 ## 📊 My Github Stats
 
 <div style="display: flex; justify-content: center; align-items: center;">
-<a href="https://github.com/Elkhan2003"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nurislam-React-Developer
-&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
+<a href="https://github.com/Nurislam-React-Developer"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nurislam-React-Developer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
 </a>
-<a href="https://github.com/Elkhan2003"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elkhan2003&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+<a href="https://github.com/Nurislam-React-Developer"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurislam-React-Developer&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
 </a>
 </div>
 
 <p align="center">
-    <a href="https://github.com/Elkhan2003">
+    <a href="https://github.com/Nurislam-React-Developer">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nurislam&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
 </p>
@@ -57,7 +56,7 @@ Motivated and detail-oriented Junior Frontend Developer with expertise in JavaSc
 ![Styled Components](https://img.shields.io/badge/-styled--components-DB7093?logo=styled-components&logoColor=fff&style=for-the-badge)
 
 <p align="center">
-  <a href="https://github.com/username" target="_blank">
+  <a href="https://github.com/Nurislam-React-Developer" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Front-end+developer;Welcome+to+my+GitHub!;Check+out+my+projects+below;Happy+coding!">
   </a>
 </p>
@@ -83,5 +82,3 @@ Motivated and detail-oriented Junior Frontend Developer with expertise in JavaSc
 </picture>
 
 <!-- Добавляем график активности -->
-
-
