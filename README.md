@@ -56,6 +56,11 @@ Motivated and detail-oriented Junior Frontend Developer with expertise in JavaSc
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 ![Styled Components](https://img.shields.io/badge/-styled--components-DB7093?logo=styled-components&logoColor=fff&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=for-the-badge)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=fff&style=for-the-badge)
+![pnpm](https://img.shields.io/badge/-pnpm-F69220?logo=pnpm&logoColor=fff&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff&style=for-the-badge)
+
 
 <p align="center">
   <a href="https://github.com/Nurislam-React-Developer" target="_blank">
