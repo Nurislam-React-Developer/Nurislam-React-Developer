@@ -27,48 +27,13 @@ Motivated and detail-oriented Junior Frontend Developer with expertise in JavaSc
   </a>
 </p>
 
-## 📊 My GitHub Stats
+## 📊 My Github Stats
 
 <p align="center">
-  <canvas id="githubLangChart"></canvas>
+    <a href="https://github.com/Nurislam-React-Developer">
+        <img title="🔥 Streak stats" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Nurislam-React-Developer&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+    </a>
 </p>
-
-<script>
-  async function fetchGitHubStats() {
-    const username = "Nurislam-React-Developer";
-    const response = await fetch(`https://api.github.com/users/${username}/repos`);
-    const repos = await response.json();
-    
-    const languages = {};
-    
-    for (const repo of repos) {
-      if (repo.language) {
-        languages[repo.language] = (languages[repo.language] || 0) + 1;
-      }
-    }
-
-    const labels = Object.keys(languages);
-    const data = Object.values(languages);
-
-    const ctx = document.getElementById("githubLangChart").getContext("2d");
-    new Chart(ctx, {
-      type: "doughnut",
-      data: {
-        labels: labels,
-        datasets: [{
-          data: data,
-          backgroundColor: ["#f7df1e", "#3178c6", "#e34f26", "#cc6699", "#764abc", "#61dafb"],
-        }]
-      }
-    });
-  }
-
-  fetchGitHubStats();
-</script>
-
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
-
 
 ## Languages and Tools:
 
