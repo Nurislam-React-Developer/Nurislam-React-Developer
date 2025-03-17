@@ -18,18 +18,7 @@ Motivated and detail-oriented Junior Frontend Developer with expertise in JavaSc
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nurs_06A)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nurs_996__)
 
-<p align="center">
-  <a href="https://github.com/Nurislam-React-Developer">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nurislam-React-Developer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-  </a>
-  <a href="https://github.com/Nurislam-React-Developer">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurislam-React-Developer&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-  </a>
-</p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nurislam-React-Developer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Nurislam-React-Developer)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurislam-React-Developer&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/Nurislam-React-Developer)
 
 ## 📊 My Github Stats
 
