@@ -84,3 +84,7 @@ Motivated and detail-oriented Junior Frontend Developer with expertise in JavaSc
 </picture>
 
 <!-- Добавляем график активности -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nurislam-React-Developer&theme=github_dark" />
+</p>
+
