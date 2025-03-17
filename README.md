@@ -27,6 +27,10 @@ Motivated and detail-oriented Junior Frontend Developer with expertise in JavaSc
   </a>
 </p>
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nurislam-React-Developer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Nurislam-React-Developer)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurislam-React-Developer&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/Nurislam-React-Developer)
+
 ## 📊 My Github Stats
 
 <p align="center">
