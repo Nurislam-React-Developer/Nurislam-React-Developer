@@ -54,6 +54,7 @@ Motivated and detail-oriented Junior Frontend Developer with expertise in JavaSc
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=fff&style=for-the-badge)
 ![pnpm](https://img.shields.io/badge/-pnpm-F69220?logo=pnpm&logoColor=fff&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff&style=for-the-badge)
+![Bun](https://img.shields.io/badge/-Bun-000000?logo=bun&logoColor=white&style=for-the-badge)
 
 
 <p align="center">
